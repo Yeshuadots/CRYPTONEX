@@ -40,7 +40,7 @@ from ta.volume import MFIIndicator, OnBalanceVolumeIndicator
 # TELEGRAM BOT TOKEN
 # ============================================================
 # ВСТАВЬТЕ СЮДА НОВЫЙ ТОКЕН ОТ @BotFather
-BOT_TOKEN = "8879651931:AAHGQUTGJzBTDFiWB4n_YZ2AbRVS6uEVtEg"
+BOT_TOKEN = "454534534534мойтокен"
 
 BINANCE_URL = "https://api.binance.com"
 
